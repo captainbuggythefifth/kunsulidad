@@ -1,0 +1,17 @@
+{
+  "name": "gaudencio",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "captainbuggythefifth <captainbuggythefifth@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
